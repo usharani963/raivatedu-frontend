@@ -45,15 +45,6 @@ npm start
 - **Functionality:** category filtering, course search, sorting, course-specific pages, and front-end form validation with a success message. No backend or payment processing is connected; this is explicitly a frontend demo.
 - **Content:** course and learner information is illustrative demo content, not a claim about real Raivatedu offerings or outcomes.
 
-## Before submission
-
-1. Run the production build and fix all warnings/errors.
-2. Test at 360px, 768px, 1024px, and 1440px widths.
-3. Run Lighthouse on the deployed mobile site and save a screenshot.
-4. Deploy to Vercel or Netlify and add the live URL here.
-5. Push at least eight meaningful commits, not one final commit.
-6. Record a short desktop/mobile walkthrough if time allows.
-
 ## Future improvements
 
 Connect the catalogue to a content API, replace illustrative course information with verified brand content, add real authentication and payment only if requirements change, and add automated interaction tests.
